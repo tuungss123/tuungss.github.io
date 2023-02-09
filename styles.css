@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    font-family: Copperplate Gothic Light;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(48, 61, 48);
+    letter-spacing: -0.05em;
+
+}
+.nav{
+    float: right;
+    padding-right: 60px;
+   word-spacing: 20px;
+}
+.header-right a{
+    text-decoration: none;
+    color: rgb(48, 61, 48);
+    line-height: 30px;
+    text-align: center;
+    
+    font-size: 18px;
+    font-family:Corbel;
+    
+ }
+
+.header{
+
+    padding-left: 200px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+  .header-right a:visited {
+    color: rgb(0, 0, 0);
+  }
+  
+  .header-right a:hover {
+    color: rgb(32, 10, 156);
+    border: 1px solid rgb(39, 39, 238);
+  }
+  
+
+  .header-right a:active {
+    color: rgb(134, 85, 199);
+  }
+.content{
+    width: 100%;
+    background-color: rgb(15, 19, 36);
+
+    padding-bottom: 50px;
+}
+.picture{
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+.picture img {
+    border-radius: 50%;
+    width: 25%;
+    height: 10%;transform: scalex(-1)
+
+  }
+
+  .content-text{
+    text-align: center;
+    float: right;
+    padding-right: 200px;
+    padding-top: 100px;
+    color: rgb(255, 255, 255);
+    line-height: 2;
+}
+
+
+.skills{
+    background-color: rgb(175, 178, 206);
+    padding-bottom: 20px;
+}
+.head{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(21, 22, 36);
+    font-family: Copperplate Gothic Light;
+
+}
+
+.pics{
+    max-width: 1400px;
+    margin: auto;
+    overflow: auto;
+    padding-left: 250px;
+    padding-bottom: 60px;
+   
+}
+.imgs{ 
+    padding-left: 10px;
+    width: 250px;
+    float: left;
+}
+.content-text{
+    padding-top: 150px;
+}
+.content-text h2{
+    font-family:Century Gothic;
+    font-size: 50px;
+    color: rgb(233, 234, 236);
+}
+.content-text p {
+    font-family: Corbel;
+}
+
+.foot{
+    position: block;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(14, 15, 22);
+    padding-bottom: 20px;
+}
+
+.cont{
+    padding-left: 300px;
+    padding-top: 30px;
+    color: white;
+    font-family: Corbel;
+   
+    
+}
+.cont p{
+    padding-top: 20px;
+    font-size: medium;
+    
+    
+}
+.cont h2{
+    font-size:25px;
+    
+}
+
+.footlogo img{
+float: right;
+ padding-top: 70px;
+ padding-right: 30px;
+
+  
+
+}
+.footlogo{
+   
+     padding-right: 400px;
+      
+    
+    }
+
+.resume{
+    color: rgb(80, 140, 192);
+    font-size: large;
+}
