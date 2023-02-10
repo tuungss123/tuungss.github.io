@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    font-family: Copperplate Gothic Light;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(48, 61, 48);
+    letter-spacing: -0.05em;
+
+}
+.nav{
+    float: right;
+    padding-right: 60px;
+   word-spacing: 20px;
+}
+.header-right a{
+    text-decoration: none;
+    color: rgb(48, 61, 48);
+    line-height: 30px;
+    text-align: center;
+    
+    font-size: 18px;
+    font-family:Corbel;
+    
+ }
+
+.header{
+
+    padding-left: 200px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+  .header-right a:visited {
+    color: rgb(0, 0, 0);
+  }
+  
+  .header-right a:hover {
+    color: rgb(32, 10, 156);
+    border: 1px solid rgb(39, 39, 238);
+  }
+  
+
+  .header-right a:active {
+    color: rgb(134, 85, 199);
+  }
+ 
+.picture{
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+.picture img {
+ 
+    width: 40%;
+
+
+  }
+  .content{
+    width: 100%;
+    background-color: rgb(15, 19, 36);
+
+    padding-bottom: 50px;
+}
+  .content-text{
+    text-align: center;
+    float: right;
+    padding-right: 150px;
+    padding-top: 125px;
+    color: rgb(255, 255, 255);
+    line-height: 2;
+}
+.content-text h2{
+    font-family:Century Gothic;
+    font-size: 25px;
+    color: rgb(233, 234, 236);
+}
+.content-text p {
+    font-family: Corbel;
+    font-size: 15px;
+}
+.content2{
+   
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+    
+        padding-bottom: 50px;
+    
+}
+.content-text2{
+    text-align: center;
+    float: right;
+    padding-right: 150px;
+    padding-top: 125px;
+    color: rgb(15, 19, 36);
+    line-height: 2;
+}
+.content-text2 h2{
+    font-family:Century Gothic;
+    font-size: 25px;
+    color: rgb(15, 19, 36);
+}
+.content-text2 p {
+    font-family: Corbel;
+    font-size: 15px;
+}
+
+.content3{
+    width: 100%;
+    background-color: rgb(15, 19, 36);
+
+    padding-bottom: 50px;
+}
+  .content-text3{
+    text-align: center;
+    float: right;
+    padding-right: 240px;
+    padding-top: 125px;
+    color: rgb(255, 255, 255);
+    line-height: 2;
+}
+.content-text3 h2{
+    font-family:Century Gothic;
+    font-size: 25px;
+    color: rgb(233, 234, 236);
+}
+.content-text3 p {
+    font-family: Corbel;
+    font-size: 15px;
+}
+.content4{
+   
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+
+    padding-bottom: 50px;
+
+}
+.content-text4{
+text-align: center;
+float: right;
+padding-right: 150px;
+padding-top: 125px;
+color: rgb(15, 19, 36);
+line-height: 2;
+}
+.content-text4 h2{
+font-family:Century Gothic;
+font-size: 25px;
+color: rgb(15, 19, 36);
+}
+.content-text4 p {
+font-family: Corbel;
+font-size: 15px;
+}
+
+
+.footlogo img{
+    float: right;
+     padding-top: 70px;
+     padding-right: 30px;
+    
+      
+    
+    }
+    .footlogo{
+       
+         padding-right: 400px;
+          
+        
+        }
+
+        .foot{
+            position: block;
+            width: 100%;
+            left: 0;
+            bottom: 0;
+            background-color: rgb(14, 15, 22);
+            padding-bottom: 20px;
+        }    
+
+        .cont{
+            padding-left: 300px;
+            padding-top: 30px;
+            color: white;
+            font-family: Corbel;
+           
+            
+        }
+        .cont p{
+            padding-top: 20px;
+            font-size: medium;
+            
+            
+        }
+        .cont h2{
+            font-size:25px;
+            
+        }
+        html {
+            scroll-behavior: smooth;
+          }        
