@@ -166,6 +166,3 @@ float: right;
     color: rgb(80, 140, 192);
     font-size: large;
 }
-html {
-    scroll-behavior: smooth;
-  }
