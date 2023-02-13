@@ -162,6 +162,30 @@ font-family: Corbel;
 font-size: 15px;
 }
 
+.content5{
+    width: 100%;
+    background-color: rgb(15, 19, 36);
+
+    padding-bottom: 50px;
+}
+  .content-text5{
+    text-align: center;
+    float: right;
+    padding-right: 70px;
+    padding-top: 125px;
+    color: rgb(255, 255, 255);
+    line-height: 2;
+}
+.content-text5 h2{
+    font-family:Century Gothic;
+    font-size: 25px;
+    color: rgb(233, 234, 236);
+}
+.content-text5 p {
+    font-family: Corbel;
+    font-size: 15px;
+}
+
 
 .footlogo img{
     float: right;
